@@ -1,7 +1,9 @@
 # Dadrian Reinke
-Aspiring Cybersecurity Specialist | Valencia College | Linux • Networking • Security Fundamentals • Blue Team Fundamentals 
+Aspiring Cybersecurity Specialist | Valencia College  
+Linux • Networking • Security Fundamentals • Blue Team Fundamentals  
 
 ### Skills
+
 **Cybersecurity & Blue Team**
 - Blue Team fundamentals (SOC essentials, threat detection, log analysis)
 - Network security principles (TCP/IP, VLANs, firewalls)
@@ -10,12 +12,12 @@ Aspiring Cybersecurity Specialist | Valencia College | Linux • Networking • 
 **Virtualization**
 - VMware Workstation & ESXi (installation, snapshots, network configs)
 
-- **Tools**
+**Tools**
 - Wireshark • Nmap • Burp Suite • Sysmon • Kali Linux • Ubuntu
 
 ### 📄 Resume  
 [Click here to view my resume](https://github.com/reinkeday-tech/Portfolio/blob/main/Dadrian-Reinke-Resume.pdf)
 
 ### Contact
-📧 Reinkeday@gmail.com
+📧 Reinkeday@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/dadrian-reinke/
