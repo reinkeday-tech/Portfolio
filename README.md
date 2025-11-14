@@ -16,7 +16,7 @@ Linux • Networking • Security Fundamentals • Blue Team Fundamentals
 - Wireshark • Nmap • Burp Suite • Sysmon • Kali Linux • Ubuntu
 
 ### 📄 Resume  
-[Click here to view my resume](https://github.com/reinkeday-tech/portfolio/blob/main/Dadrian-Reinke-Resume.pdf)
+[Click here to view my resume](https://github.com/reinkeday-tech/Portfolio/blob/main/Dadrian-Reinke-Resume.pdf)
 
 ### Contact
 📧 Reinkeday@gmail.com  
