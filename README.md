@@ -14,8 +14,7 @@ Aspiring Cybersecurity Specialist | Valencia College | Linux • Networking • 
 - Wireshark • Nmap • Burp Suite • Sysmon • Kali Linux • Ubuntu
 
 ### 📄 Resume
-[**Click here to view my resume**](https://github.com/reinkeday-tech/portfolio/blob/main/Dadrian-Reinke-Resume.pdf)
-
+[**Click here to view my resume**](https://github.com/reinkeday-tech/portfolio/blob/main/YOUR-EXACT-FILENAME.pdf)
 
 ### Contact
 📧 Reinkeday@gmail.com
